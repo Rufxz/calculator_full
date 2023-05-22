@@ -1,6 +1,11 @@
-# calculator_with_history
+# calculator_full
 
-A new Flutter project.
+This Calculator UI has the following Features:
+1. Has the basic functionalities of a calculator.
+2. Has Kilo to Mile converter as a seperate screen.
+3. Has history feature to look at the previous operations doen with timestamps.
+4. Has SQlite integrated to it, to store all the operations done.
+5. Has Equation support.
 
 ## Getting Started
 
